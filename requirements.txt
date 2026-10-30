@@ -1,0 +1,9 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+arch>=7.0
+pillow>=10.0
+pytest>=8.0
+# only needed to refresh data/prices.csv
+yfinance>=0.2.40

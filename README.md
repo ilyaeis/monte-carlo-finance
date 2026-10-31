@@ -204,3 +204,5 @@ data/prices.csv     daily adjusted closes 2010-2025 (yfinance, 0.3 MB)
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Part of my portfolio: https://ilyaeis.github.io/?go=monte-carlo
